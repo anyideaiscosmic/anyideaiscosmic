@@ -1,15 +1,4 @@
-### Hi there, I'm Musa 👋
 
-I'm a Data Science student and former chemistry major passionate about applying machine learning to complex scientific problems. Currently, I'm exploring autonomous AI lab workflows and multi-agent frameworks.
-
-- 🔭 **Currently working on:** A text-to-image generator for chemical structures (`anyideaiscosmic`).
-- 🌱 **Currently learning:** Advanced Data Engineering, AI model training, and RLHF prompt evaluation.
-- 👯 **Open to collaborate on:** Open-source computational chemistry tools or Python automation scripts.
-
-### 🛠️ Tech Stack
-* **Languages:** Python, SQL, Bash
-* **Data & ML:** Machine Learning, Data Engineering
-* **Tools & OS:** Linux (Ubuntu/Mint), PyMOL, GROMACS
 
 <!-- Moved Badges up to the Tech Stack section -->
 <p align="left">
@@ -29,8 +18,8 @@ I'm a Data Science student and former chemistry major passionate about applying 
 
 <div align="center">
   <!-- Extended GitHub Stats Card -->
-  <img src="https://github-stats-extended.vercel.app/api?username=anyideaiscosmic&show_icons=true&theme=radical&rank_icon=github" alt="Musa's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=anyideaiscosmic&show_icons=true&theme=radical&rank_icon=github" height="195" alt="Musa's GitHub Stats" />
   
   <!-- Extended Top Languages Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anyideaiscosmic&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anyideaiscosmic&layout=compact&theme=radical" height="195" alt="Most Used Languages" />
 </div>
