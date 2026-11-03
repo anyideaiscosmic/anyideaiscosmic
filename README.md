@@ -5,8 +5,11 @@
 
 <!-- Side-by-side Stats and Languages -->
 <p align="left">
+  <!-- Extended GitHub Stats Card -->
   <img src="https://github-stats-extended.vercel.app/api?username=anyideaiscosmic&show_icons=true&theme=prussian&rank_icon=github" height="195" alt="Musa's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anyideaiscosmic&layout=compact&theme=prussian" height="195" alt="Most Used Languages" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Extended Top Languages Card (Standard Layout) -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anyideaiscosmic&theme=prussian" height="195" alt="Most Used Languages" />
 </p>
 
 <!-- Decorative Contribution Snake -->
