@@ -19,11 +19,11 @@ I'm a Data Science student and former chemistry major passionate about applying 
 <br />
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anyideaiscosmic&show_icons=true&theme=radical&rank_icon=github" alt="Musa's GitHub Stats" />
+  <!-- Extended GitHub Stats Card -->
+  <img src="https://github-stats-extended.vercel.app/api?username=anyideaiscosmic&show_icons=true&theme=radical&rank_icon=github" alt="Musa's GitHub Stats" />
   
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anyideaiscosmic&layout=compact&theme=radical" alt="Most Used Languages" />
+  <!-- Extended Top Languages Card -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anyideaiscosmic&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
